@@ -1,4 +1,4 @@
-# Course_transcript_scraper_with_playwright
+# Course-transcript scraper withplaywright
 
 This repository contains three Python scripts for web scraping tasks using Playwright and pandas. The scripts perform the following functions:
 
