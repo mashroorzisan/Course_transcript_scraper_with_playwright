@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mashroorzisan/Course_transcript_scraper_with_playwright/main/banner_image_of_cts.png" alt="CTS logo" width="140">
+  <img src="https://raw.githubusercontent.com/mashroorzisan/Course_transcript_scraper_with_playwright/main/banner_image_of_cts.png" alt="CTS logo">
 </p>
 
 <h1 align="center">CTS</h1>
